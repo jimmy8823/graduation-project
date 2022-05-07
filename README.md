@@ -1,4 +1,5 @@
 # 智慧音箱設計
+![海報](https://user-images.githubusercontent.com/56255361/167265411-7434a063-7406-4dbf-aa53-337238bca17b.jpg)
 
 ## 目錄
 
