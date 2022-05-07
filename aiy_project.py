@@ -12,8 +12,8 @@ from time import mktime
 
 
 
-# CWB-ADFC30B1-89D7-4FA2-B350-268E727D74C6  weather API KEY
-key ="AIzaSyDFb4tPlU6MxXXfhuTKMOc6AHzSAYy5Yvw"; # google map key
+weatehr_api_key = "";# weather API KEY
+key =""; # google map key
 
 nounlist = [];
 placelist = [];
